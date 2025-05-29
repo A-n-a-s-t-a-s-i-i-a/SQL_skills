@@ -12,3 +12,6 @@
 - Побудувала інтерактивну візуалізацію в Looker Studio:
   - загальні значення в розрізі країн (`account_cnt`, `total_country_sent_cnt`, `rank_total_country_account_cnt`, `rank_total_country_sent_cnt`);
   - динаміка за часом для показника `sent_msg`.
+ 
+
+![Візуалізація](https://snipboard.io/7ipfcg.jpg)
